@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "YRqesxVCAKtbPjFfnYBDYitOHAoM8wxAts4ux0viEeI=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi/wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "/Users/samir/Desktop/E-Commerce/WebApi/wwwroot/",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/samir/Desktop/E-Commerce/WebApi/wwwroot/images/4d7ccf01-30cc-4273-9ae3-91fde6cb8d8f.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samir/Desktop/E-Commerce/WebApi/wwwroot/",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/4d7ccf01-30cc-4273-9ae3-91fde6cb8d8f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/4d7ccf01-30cc-4273-9ae3-91fde6cb8d8f.jpg"
+    }
+  ]
+}
